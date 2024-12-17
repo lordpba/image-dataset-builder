@@ -41,8 +41,8 @@ This project is a Streamlit application that renames images based on the objects
 
 #### Linux
 
-1. Download the Ollama package for your distribution from the [official website](https://ollama.com/download).
-2. Follow the instructions provided on the website to install the package.
+Install with one command:
+curl -fsSL https://ollama.com/install.sh | sh
 
 ## Usage
 
